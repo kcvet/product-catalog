@@ -1,0 +1,19 @@
+{
+  "name": "product-catalog",
+  "version": "1.0.0",
+  "description": "Test app for Proxima.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcvet/product-catalog.git"
+  },
+  "author": "kevin cvetezar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcvet/product-catalog/issues"
+  },
+  "homepage": "https://github.com/kcvet/product-catalog#readme"
+}
